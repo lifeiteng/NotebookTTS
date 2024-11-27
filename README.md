@@ -4,6 +4,13 @@
 
 📜 **Overview**: This project offers a Text-to-Speech (TTS) solution tailored for NotebookLM, designed to provide developers, researchers, and AI enthusiasts with a user-friendly, high-quality TTS tool. The project supports customizations, real-time audio generation, and multilingual synthesis, enabling richer and more natural human-computer interaction experiences within NotebookLM.
 
+📆 **Timeline**
+
+- **Early December**: Release of the Demo
+  - We will release a demo version for users to get an initial experience of TTS output capabilities.
+- **End of December**: Release of the Interactive Playground
+  - The interactive playground will allow users to delve deeper into exploring and testing various features of the project.
+
 🔍 **Highlights**:
 
 - **High Quality**: Providing a transparent, high-quality TTS solution.
