@@ -9,12 +9,8 @@ This project offers a Text-to-Speech (TTS) solution tailored for NotebookLM, des
 
 🔊 **Demo**
 
-* 中文
-<audio controls>
-  <source src="./assets/zh_demo.wav" type="audio/wav">
-  Your browser does not support the audio element. 
-  <a href="./assets/zh_demo.wav">下载音频文件</a>
-</audio>
+* **中文示例**: [在线试听 (SoundCloud)](https://soundcloud.com/feiteng-li/notebooktts-example)
+    * **本地文件**: [中文演示音频](./assets/zh_demo.wav)
 
 
 🔍 **Highlights**:
@@ -26,7 +22,7 @@ This project offers a Text-to-Speech (TTS) solution tailored for NotebookLM, des
 - **Real-Time Voice Generation**: Ideal for live interactions and scenarios that require quick response, bringing a truly interactive experience to speech synthesis.
 
 📐 **Technical Features**:
-- **Built on the Latest Deep Learning Models** like Transformer and Hierarchical Codec for state-of-the-art TTS.
+- **Built on the Latest Deep Learning Models** like Transformer and Flow-Matching for state-of-the-art TTS.
 - **Efficient Data Processing Pipeline** for rapid conversion of large-scale text data.
 - **Modular Design** for easy expansion and integration.
 
