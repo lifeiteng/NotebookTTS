@@ -2,7 +2,20 @@
 
 ---
 
-📜 **Overview**: This project offers a Text-to-Speech (TTS) solution tailored for NotebookLM, designed to provide developers, researchers, and AI enthusiasts with a user-friendly, high-quality TTS tool. The project supports customizations, real-time audio generation, and multilingual synthesis, enabling richer and more natural human-computer interaction experiences within NotebookLM.
+📜 **Overview**:
+
+This project offers a Text-to-Speech (TTS) solution tailored for NotebookLM, designed to provide developers, researchers, and AI enthusiasts with a user-friendly, high-quality TTS tool. The project supports customizations, real-time audio generation, and multilingual synthesis, enabling richer and more natural human-computer interaction experiences within NotebookLM.
+
+
+🔊 **Demo**
+
+* 中文
+<audio controls>
+  <source src="./assets/zh_demo.wav" type="audio/wav">
+  Your browser does not support the audio element. 
+  <a href="./assets/zh_demo.wav">下载音频文件</a>
+</audio>
+
 
 🔍 **Highlights**:
 
